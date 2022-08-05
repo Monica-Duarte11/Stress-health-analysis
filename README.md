@@ -10,7 +10,7 @@ Con la ayuda de técnicas de  manipulación de datos, estadística, análisis ex
 
 Par lograrlo se he hecho uso de pyhton, aplicando principalmente las librerías de pandas, seaborn y matplotlib. 
 
-#Contenido
+# Contenido
 
 En la carpeta `Data` se encuentran contenidos los datasets originales usados en el proyecto. 
 
