@@ -18,7 +18,7 @@ En la carpeta `Notebooks` están los distintos archivos de trabajo que se usaron
 - `Cleaning_func.py`: Archivo con las funciones usadas para la limpieza de datos
 - `Transform_func.py`: Archivo con las funciones usadas para la transformación y organización de datos
 - `Cleaning-Transforming-Final.ipynb`: Notebook con los pasos para el Data Wrangling.
-- `statistical-analysis.ipynb`: Notebook con el análsis individual de uno de los individuos del estudio para identificar picos de estrés.
-- `statistical-analysis_2.ipynb`: Notebook con el análsis comparativo para todos los individuos del estudio en cuanto a sus patrones de actividad física. 
+- `statistical-analysis.ipynb`: Notebook con el análsis individual de uno de los individuos del estudio para identificar picos de estrés y sus respectivas conclusiones.
+- `statistical-analysis_2.ipynb`: Notebook con el análsis comparativo para todos los individuos del estudio en cuanto a sus patrones de actividad física, y sus respectivas conclusiones. 
 
 Por último, el archivo `EDA Presentation.pdf` contiene las diapositivas de apoyo para la presentación del proyecto.
