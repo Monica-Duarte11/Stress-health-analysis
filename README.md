@@ -12,13 +12,13 @@ The study contains 8 datasets from different volunteers who have exported their 
 # Tech stacking
 
 * Pyhton programming language 
-* Libraries:
+* Libraries:\
 🐼 Pandas\
-📊 Seaborn
-📈 Matplotlib
-📇 Numpy
-📦 Pickle
-🗓️ Datetime
+📊 Seaborn\
+📈 Matplotlib\
+📇 Numpy\
+📦 Pickle\
+🗓️ Datetime\
 🧮 Scipy
 
 With the help of data manipulation techniques, statistics, exploratory data analysis, data cleaning and visulization, we were able to observe peaks of stress indvidually and comparisons of physical activity for the study subjects. 
