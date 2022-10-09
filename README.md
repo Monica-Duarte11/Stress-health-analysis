@@ -1,24 +1,39 @@
-# Project-2
+# Stress detection and activity peaks
 ![cover](EDAportada.PNG)
 
-# Midiendo actividad física y estrés con Smartwatches + Apple Health
-Este proyecto es una aproximación estadística y de análisis exploratorio de datos (EDA) para medir estrés y actividad física a través de los datos proporcionados por los relojes inteligentes. 
+This project is a statistical and exploratory data analysis approach to measure stress and physical activity through data provided by smart watches. 
 
-El estudio contiene 8 datasets de diferentes voluntarios que han exportados sus datos de la App de Salud de iphone (Apple Health) para este proyecto. 
+To this end, two main analyses were conducted to understand the data and to find a statistical approach to measure and evaluate health data. An individual study and a group comparison.
 
-Con la ayuda de técnicas de  manipulación de datos, estadística, análisis exploratorio de datos, limpieza de datos y visulización conseguimos observar picos de estrés de forma indvidual y comparaciones de actividad física para los sujetos del estudio. 
+# Data Mining
 
-Para lograrlo se he hecho uso de pyhton, aplicando principalmente las librerías de pandas, seaborn y matplotlib.  
+The study contains 8 datasets from different volunteers who have exported their data from the iphone Health App (Apple Health) for this project. 
 
-# Contenido
+# Tech stacking
 
-En la carpeta `Data` se encuentran contenidos los datasets originales usados en el proyecto. 
+* Pyhton programming language 
+* Libraries:
+🐼 Pandas\
+📊 Seaborn
+📈 Matplotlib
+📇 Numpy
+📦 Pickle
+🗓️ Datetime
+🧮 Scipy
 
-En la carpeta `Notebooks` están los distintos archivos que se usaron para el trabajo en python:
-- `Cleaning_func.py`: Archivo con las funciones usadas para la limpieza de datos
-- `Transform_func.py`: Archivo con las funciones usadas para la transformación y organización de datos
-- `Cleaning-Transforming-Final.ipynb`: Notebook con los pasos para el Data Wrangling.
-- `statistical-analysis.ipynb`: Notebook con el análsis individual de uno de los individuos del estudio para identificar picos de estrés y sus respectivas conclusiones.
-- `statistical-analysis_2.ipynb`: Notebook con el análsis comparativo para todos los individuos del estudio en cuanto a sus patrones de actividad física, y sus respectivas conclusiones. 
+With the help of data manipulation techniques, statistics, exploratory data analysis, data cleaning and visulization, we were able to observe peaks of stress indvidually and comparisons of physical activity for the study subjects. 
 
-Por último, el archivo `EDA Presentation.pdf` contiene las diapositivas de apoyo para la presentación de este proyecto.
+To achieve this we have made use of pyhton, applying mainly the pandas, seaborn and matplotlib libraries together with libraries focused on calculation and statistical analysis such as scipy and numpy. 
+
+# Index
+
+The `Data` folder contains the original datasets used in the project. 
+
+In the `Notebooks` folder are the different files that were used for the Python work:
+- `Cleaning_func.py`: File with the functions used for data cleaning.
+- Transform_func.py`: File with the functions used for data transformation and organization.
+- `Cleaning-Transforming-Final.ipynb`: Notebook with the complete steps for the Data Wrangling.
+- Statistical-analysis.ipynb: Notebook with the individual analysis of one of the participants in the study to identify stress peaks and their respective conclusions.
+- Statistical-analysis_2.ipynb`: Notebook with the comparative analysis for all individuals in the study in terms of their physical activity patterns, and their respective conclusions. 
+
+Finally, the file `EDA Presentation.pdf` contains the supporting slides for the presentation of this project.
